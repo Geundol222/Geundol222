@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Unity-#FF0000?style=plastic&logo=Unity&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Unity-#FF0000?style=plastic&logo=Unity&logoColor=Black"/>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
