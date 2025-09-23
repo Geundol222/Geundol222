@@ -1,46 +1,63 @@
-🤖 AI Engineer  
-🌱 Focused on Computer Vision, Deep Learning, and NLP  
-💡 Interested in Object Detection, Generative AI, and Applied Machine Learning  
+<h1 align="center">👋 Hi, There</h1>
+
+<p align="center">
+  🤖 <b>AI Engineer</b><br>
+  🌱 Focused on Computer Vision & Deep Learning<br>
+  💡 Exploring Generative AI, NLP, and Applied Machine Learning
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geundol222&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Geundol222&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geundol222&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geundol222&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Geundol222&theme=tokyonight" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geundol222&layout=compact&theme=tokyonight" height="120"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**AI & Data**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"/>  
+**Languages & AI Frameworks**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-**Development**  
-<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white"/>  
+**Data & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-**Tools**  
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>  
+**Collaboration & Version Control**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Projects  
-- 💊 [Pill-Snap](https://github.com/Geundol222/pill-snap) — Pill image detection with YOLOv8  
-- 📷 Computer Vision Experiments (coming soon)  
-- 🎮 Unity Mini-Game Collection (coming soon)  
+- 💊 [**Pill-Snap**](https://github.com/Geundol222/pill-snap) — Pill image detection using YOLOv12  
 
 ---
 
 ## 📫 Contact  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+<p>
+  <a href="mailto:geundol222@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Geundol222"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
-✨ Always learning, always building.  
+
+<p align="center">✨ Always learning, always building. ✨</p>
