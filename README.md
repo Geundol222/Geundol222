@@ -9,12 +9,14 @@
 ---
 
 ## 🚀 About Me
+
 ```python
 class AIEngineer:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.focus = ["Deep Learning", "NLP", "LLM Applications"]
-        self.current_learning = ["Generative AI", "RAG Systems", "LangChain", "LangGraph"]
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.focus = ["Deep Learning", "NLP", "LLM Applications"]
+        self.current_learning = ["Generative AI", "RAG Systems", "LangChain"]
+        self.goal = "Bridging the gap between AI research and production"
 ```
 
 ---
