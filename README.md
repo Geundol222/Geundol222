@@ -1,95 +1,98 @@
 <div align="center">
 
-# 👋 Hi There
+# Geundol
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer;Deep+Learning+%26+NLP;Building+Intelligent+Systems" alt="Typing SVG" />
+**AI Engineer**
+
+`RAG` &nbsp;•&nbsp; `LLM Agents` &nbsp;•&nbsp; `NLP` &nbsp;•&nbsp; `Applied Deep Learning`
+
+Bridging the gap between AI research and production.
 
 </div>
 
----
-
-## 🚀 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.focus = ["Deep Learning", "NLP", "LLM Applications"]
-        self.current_learning = ["Generative AI", "RAG Systems", "LangChain"]
-        self.goal = "Bridging the gap between AI research and production"
-```
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+### About
 
-## 📊 GitHub Stats
+연구 단계의 AI 기법을 실제 운영 가능한 시스템으로 옮기는 일에 집중함.
+RAG 파이프라인, LLM 함수 호출, 에이전트 오케스트레이션을 주로 다룸.
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Geundol222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Geundol222&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
-</div>
+- **관심 분야** — Retrieval-Augmented Generation, LLM Agents, Context Engineering
+- **작업 방식** — 확률적 LLM과 결정론적 로직을 분리한 계층형 아키텍처 설계
+- **현재** — 개인 연구 자동화 파이프라인을 3개월 이상 매일 운영 중
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-### 🧠 AI & ML
+**AI & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 
-### 🔧 LLM & Tools
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+**LLM & Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### 📊 Data & Analysis
+**Data & Analysis**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌐 Web & APIs
+**Web & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Database & Cloud
+**Database & Cloud**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔨 Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Pill-Snap](https://github.com/Geundol222/pill-snap)
-AI-Powered Healthcare Solution
+#### ⚖️&nbsp; [Lawbot-KR](https://github.com/Geundol222/lawbot-kr)
+Korean Legal AI Chatbot
 
-- Deep learning-based detection system
-- Real-time identification
-- Healthcare automation
+- 한국 노동법 도메인 특화 Agentic RAG
+- 질의 의도 기반 검색 전략 분기
+- 도메인 예외 규칙 + 재순위화
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [RFP RAG Assistant](https://github.com/Geundol222/codeit_ai_rfp_rag_assistant)
+#### 🤖&nbsp; [RFP RAG Assistant](https://github.com/Geundol222/codeit_ai_rfp_rag_assistant)
 Intelligent Document Q&A System
 
 - RAG (Retrieval-Augmented Generation)
@@ -105,64 +108,63 @@ Intelligent Document Q&A System
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ [Lawbot-KR](https://github.com/Geundol222/lawbot-kr)
-Korean Legal AI Chatbot
+#### 💊&nbsp; [Pill-Snap](https://github.com/Geundol222/pill-snap)
+AI-Powered Healthcare Solution
 
-- Real-time API integration
-- LLM function calling
-- Contextual legal information retrieval
+- Deep learning-based detection system
+- Real-time identification
+- Healthcare automation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ [AdGen SmallBiz](https://github.com/Geundol222/codeit_ad_smallbiz)
-Korean Legal AI Chatbot
+#### 🎨&nbsp; [AdGen SmallBiz](https://github.com/Geundol222/codeit_ad_smallbiz)
+Ad Image Generation for Small Business
 
-- Real-time API integration
-- LLM function calling
-- Contextual legal information retrieval
+- 소상공인 대상 광고 이미지 자동 생성
+- 프롬프트 기반 이미지 생성 파이프라인
+- 생성 워크플로우 자동화
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Z-image](https://img.shields.io/badge/-Z--image-8E75B2?style=flat-square)
+![Diffusion](https://img.shields.io/badge/-Diffusion-8E75B2?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
 ---
 
-## 📈 Activity
+### GitHub Stats
 
 <div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=Geundol222&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Geundol222&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Geundol222&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" height="165"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geundol222&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" width="95%"/>
+
+</div>
+
+<br/>
+
 ---
 
-## 📫 Contact
+### Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geundol222@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geundol222@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geundol222)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/your-notion-link)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Geundol222&color=58A6FF&style=flat-square)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bubbly-psychology-181.notion.site/Geundol-s-Blog-2f82dfb1ef6880339722eac81a04603f)
 
 </div>
