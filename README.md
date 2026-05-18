@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geundol
+# Lee HyunSeok
 
 **AI Engineer**
 
