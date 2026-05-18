@@ -16,12 +16,11 @@ Bridging the gap between AI research and production.
 
 ### About
 
-연구 단계의 AI 기법을 실제 운영 가능한 시스템으로 옮기는 일에 집중함.
-RAG 파이프라인, LLM 함수 호출, 에이전트 오케스트레이션을 주로 다룸.
+RAG와 LLM 에이전트 기반 시스템에 관심을 두고 작업함.
+검색·생성 파이프라인을 직접 설계하고 다듬는 쪽을 중심으로 다루고 싶음.
 
-- **관심 분야** — Retrieval-Augmented Generation, LLM Agents, Context Engineering
-- **작업 방식** — 확률적 LLM과 결정론적 로직을 분리한 계층형 아키텍처 설계
-- **현재** — 개인 연구 자동화 파이프라인을 3개월 이상 매일 운영 중
+- 관심 분야 — Retrieval-Augmented Generation, LLM Agents, NLP
+- 요즘 보는 것 — 검색 정확도 개선, LLM 함수 호출, 파이프라인 자동화
 
 <br/>
 
