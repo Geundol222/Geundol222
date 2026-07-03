@@ -14,18 +14,6 @@ Bridging the gap between AI research and production.
 
 ---
 
-### About
-
-RAG와 LLM 에이전트 기반 시스템에 관심을 두고 작업함.
-검색·생성 파이프라인을 직접 설계하고 다듬는 쪽을 중심으로 다루고 싶음.
-
-- 관심 분야 — Retrieval-Augmented Generation, LLM Agents, NLP
-- 요즘 보는 것 — 검색 정확도 개선, LLM 함수 호출, 파이프라인 자동화
-
-<br/>
-
----
-
 ### Tech Stack
 
 <div align="center">
