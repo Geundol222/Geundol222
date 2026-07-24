@@ -10,9 +10,9 @@
 
 **AI / ML**&nbsp;&nbsp;`Python` `PyTorch` `scikit-learn` `Hugging Face`
 
-**LLM**&nbsp;&nbsp;`LangChain` `OpenAI API` `Gemini API`
+**LLM**&nbsp;&nbsp;`LangChain` `LangGraph` `OpenAI API` `Gemini API`
 
-**Image / Generative**&nbsp;&nbsp;`Diffusion Models` `ComfyUI` `LoRA`
+**Image / Generative**&nbsp;&nbsp;`Diffusion Models` `DiT` `ComfyUI` `LoRA`
 
 **Backend / Data**&nbsp;&nbsp;`FastAPI` `Streamlit` `pandas` `NumPy` `Supabase`
 
