@@ -1,4 +1,4 @@
-<img src="./orbit-banner.svg" width="100%" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/Geundol222/Geundol222@main/orbit-banner.svg" width="100%" alt="" />
 
 # 이현석 · Lee HyunSeok
 
