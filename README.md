@@ -23,7 +23,7 @@
 ## Projects
 
 **[Paper Curator](https://github.com/Geundol222/Paper_Curator)** — Arxiv 논문 자동 수집·분석 파이프라인
-매일 최신 논문을 수집해 Gemini로 심층 분석한 뒤 Notion에 구조화된 리포트로 저장합니다. Directive–Orchestration–Execution 3계층 구조로 설계해 3개월째 매일 운영 중입니다.
+매일 최신 논문을 수집해 Gemini로 심층 분석한 뒤 Notion에 구조화된 리포트로 저장합니다.
 `Python` `Gemini API` `Notion API`
 
 **[Lawbot-KR](https://github.com/Geundol222/lawbot-kr)** — 한국 노동법 도메인 특화 Agentic RAG 챗봇
